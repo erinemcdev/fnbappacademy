@@ -10,6 +10,8 @@ Below is a list of projects with their respective links:
 
 ### project-week-one (https://erinemcdev.github.io/fnbappacademy/project-week-one/)
 - This project focuses on week 1 of the FNB App Academy, 3 sections of lessons that explained and helped implement practice on ***Getting Started with HTML***, ***Working with Images*** and ***Hyperlinks***.
+  ![App Screenshot](week1-media/1.png)
+
 
 - More projects will be added as they are developed.
 
