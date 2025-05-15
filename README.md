@@ -8,7 +8,8 @@ The **FNB App Academy** repository serves as an index for projects related to le
 ## Projects
 Below is a list of projects with their respective links:
 
-
+### project-week-one (https://erinemcdev.github.io/fnbappacademy/project-week-one/)
+ - ***Getting Started with HTML***, ***Working with Images*** and ***Hyperlinks.***
 
  More projects will be added as they are developed.
 
