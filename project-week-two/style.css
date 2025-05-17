@@ -1,0 +1,141 @@
+/* HEADER */
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    padding-bottom: 15px;
+}
+
+.emc-logo {
+    height: 80px;
+}
+
+.header-links {
+    margin: 25px 0;
+}
+
+.header-links a {
+    color: #5271ff;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 0 20px;
+}
+
+.header-links a:hover {
+    color: #3958e0;
+    font-size: 22px;
+    transition: ease all 300ms;
+    padding: 0 20px;
+}
+
+/* HOME PAGE */
+
+.home-page-intro {
+    text-align: center;
+}
+
+.home-page-intro h1 {
+    font-family: sans-serif;
+    font-weight: 800;
+    font-size: 36px;
+}
+
+.home-page-intro p {
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    font-style: italic;
+}
+
+/* MAIN CONTENT */
+
+.main-content h2 {
+    font-family: sans-serif;
+    font-size: 26px;
+    padding: 0 20px;
+    margin-top: 40px;
+}
+
+.dev-map {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border: 1px solid #000;
+    border-radius: 25px;
+    margin: 20px 15px;
+}
+
+.dev-map h3 {
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.dev-map p {
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+.dev-map-info {
+    display: flex;
+    flex-direction: column;
+}
+
+/* ABOUT PAGE */
+
+.about-page-intro {
+    text-align: center;
+}
+
+.about-page-intro h1 {
+    font-family: sans-serif;
+    font-weight: 800;
+    font-size: 30px;
+}
+
+.about-page-intro p {
+    font-family: sans-serif;
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+
+.about-emc {
+    text-align: center;
+}
+
+.about-emc h2 {
+    font-family: sans-serif;
+    font-size: 24px;
+}
+
+.about-emc a {
+    color: #5271ff;
+    text-decoration: none;
+}
+
+.about-emc img {
+    border-radius: 10px;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.25);
+    margin: 20px;
+}
+
+.about-emc p {
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+/* CONTACT PAGE */
+
+.contact-page-intro h1 {
+    font-family: sans-serif;
+    font-weight: 800;
+    font-size: 30px;
+}
+
+.contact-page-intro h3 {
+    font-family: sans-serif;
+    font-size: 20px;
+}
