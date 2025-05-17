@@ -10,6 +10,8 @@ Below is a list of projects with their respective links:
 
 ### project-week-one (https://erinemcdev.github.io/fnbappacademy/project-week-one/)
  - ***Getting Started with HTML***, ***Working with Images*** and ***Hyperlinks.***
+### project-week-two (https://erinemcdev.github.io/fnbappacademy/project-week-two/)
+ - ***Getting Started with CSS*** and ***Basic App Building.***
 
  More projects will be added as they are developed.
 
