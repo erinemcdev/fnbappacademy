@@ -12,6 +12,10 @@ Below is a list of projects with their respective links:
 - (https://erinemcdev.github.io/fnbappacademy/week-two/superhero-app/)
 - This project featured ***Getting Started with HTML***, ***Working with Images***, ***Hyperlinks*** and ***Getting Started with CSS*** from Week 1 to 2.
 
+### Pine City Zoo App 
+- (https://erinemcdev.github.io/fnbappacademy/week-three/pine-city-zoo-app/)
+- This project featured what was learned from Week 1 to 2 and week 3 helped with ***Setting Up***, adding ***More Pages*** and ***Finishing Up*** with more.
+
  More projects will be added as they are developed.
 
 ## Technologies Used
